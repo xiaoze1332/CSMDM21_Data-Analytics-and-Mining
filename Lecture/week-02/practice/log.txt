@@ -1,0 +1,21 @@
+prac1
+	插入行名称，不知道为什么插入失败
+	报错
+	Execute failed: No name assignment for column "age" -- set the appropriate option in the configuration dialog to keep the original column name.
+	
+
+	总结：
+		几个节点总结：
+		Extract Column Header：输出column header
+		Transpose：转置
+		RowID：重置rowid
+		Joiner：竖向合并数据
+		Insert Column Header：插入
+	
+	
+	
+prac2
+	总结：
+		column rename： 更改column heading 名字
+		color/shape manager：更改图形或颜色
+		Line Plot, Bar Chart, Box Plot, Conditional Box Plot, Parallel Coordinate, Pie chart and Histogram
